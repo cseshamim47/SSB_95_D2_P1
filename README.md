@@ -1,2 +1,2 @@
-# SSB_95_P2
-This is practice project. Day 2 Project 1
+# SSB_95_D3_P1
+This is practice project. Day 3 Project 1
