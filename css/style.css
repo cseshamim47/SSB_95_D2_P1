@@ -1,0 +1,38 @@
+.header{
+	/*margin-top:  -21px;*/
+	min-height: 100px;
+	background-color: red;
+}
+.wrapper{
+	overflow: hidden;
+	border: 10px solid yellow;
+}
+.left{
+	min-height: 150px;
+	width: 32.5%;
+	background: green;
+	border: 5px solid red;
+	float: left;
+/*	float: left;*/
+}
+.footer{
+	min-height: 100px;
+	background: black;
+/*	clear: both;*/
+}
+
+.head{
+	text-align: center;
+	padding: 50px;
+	color: white;
+}
+.wh1{
+	text-align: center;
+	padding: 30px;
+	color: white;
+}
+.fh1{
+	text-align: center;
+	padding: 30px;
+	color: white;
+}
